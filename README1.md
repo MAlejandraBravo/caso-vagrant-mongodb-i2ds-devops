@@ -5,7 +5,4 @@ En este contexto se propone la construcción de una plataforma analítica de dat
 
 * Rundeck
 * Jupyter 
-*MongoBD
-
-
-
+* MongoBD
